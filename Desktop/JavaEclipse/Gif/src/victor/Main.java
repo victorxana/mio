@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("Hola Mundo");
 		/* OTRO HOLA **/
 		System.out.println("Hola Mundo");
+		/* OTRO HOLA **/
 	}
 
 }	
